@@ -1,0 +1,66 @@
+Questão 1: ANEXO
+
+Questão 2, letras A e B:
+
+Arquivo: extrato_eletronico_20171223-390833_23122017_000000692_400.TXT
+Linha: 2065
+NSU Nº: 000000040612
+Cód. Aut: 0000R73242
+Valor Compra: 000000012990
+
+Questão 2, letras A e B:
+Arquivo: extrato_eletronico_20180122-390833_22012018_000000722_400.TXT
+Linha: 9979
+NSU Nº: 000000040612
+Cód. Aut: 0000R73242
+Valor Compra: 000000012990
+- - - - - - - - - - - - - - - Fim Resposta - - - - - - - - - - - - - - -
+
+Questão 2 letra C
+Sinal Ajuste:-
+NSU: 000000040612
+017PF02633
+Motivo Ajuste: 04
+
+O registro inicia-se em "3", o que significa, de acordo com o leiaute da GetNet ,que é um registro de ajuste
+Assim sendo, é necessário verificar o motivo. O motivo "04", segundo a tabela II do manual, indica que houve um reajuste de débito (sinal "-" na posição 63) referente ao tipo de ajuste "chargeback"
+- - - - - - - - - - - - - - - Fim Resposta - - - - - - - - - - - - - - -
+
+Questão 2, letras D e E:
+Arquivo: 01167639000129.BJR02.D1190314.T023840.roff
+Linha: 6
+NSU Nº: 00942516
+Valor Compra: 000000000012985
+- - - - - - - - - - - - - - - Fim Resposta - - - - - - - - - - - - - - -
+
+Questão 3
+
+linha 13: 10011676390007140041033800000000000000080200000001201809070043773701011634102018090716335629930200002000PGTU0000000000001398000000000001398020180910000000015000000000021000000000000000001377000000020180907163447 250437737041033800080200N6396641738 000000013
+
+Informação: PGTU
+
+/* Inicio email
+    
+    Olá,
+    Ocorreu uma falha na geração de transação onde foi percebido que, na linha 13 do arquivo
+    '01167639000129.BJR02.D1180910.T011541.roff' (em anexo) o mnemônico gerado (PGTU) não
+    está dentro das especificações de serviço do manual.
+    Necessitamos de avaliação, suporte e retorno referente a esse serviço a fim de efetuarmos
+    com a maior brevidade possível os procedimentos a fim de solucionar o ocorrido.
+
+    Fim email */
+
+Questão 4
+
+/*
+Prezado cliente,
+É uma satisfação tê-lo conosco nesse processo de evolução da sua empresa.
+Para que possamos ajudá-lo da melhor forma possível, precisamos de informações que nos ajudarão a preparar tudo e deixar você e seu negócio tranquilos.
+As informações que necessitamos:
+	- Lista de adquirentes: Precisamos saber com quais redes de maquinetas sua empresa utiliza;
+	- Informações sobre gerentes de contas: Para o processo de integração com os bancos, precisaremos contatá-los a fim de garantir uma transição segura e assertiva;
+Tudo isso é para garantirmos a total satisfação desde já, com toda a segurança e agilidade!
+No aguardo do seu retorno.
+Respeitosamente,
+Fabio Furtado
+*/
